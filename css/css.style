@@ -1,6 +1,7 @@
+
 body {
-Background-color: #FF82C3;
-Margin: 0;
-Padding: 0;
+  background-color: #FF82C3;
+  Margin: 0;
+  Padding: 0;
 }
 
