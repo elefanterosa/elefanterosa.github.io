@@ -1,0 +1,4 @@
+flex-direction: column -> Coloca los elementos en vertical (uno debajo de otro) 
+align-items: center -> Centra todo de forma horizontal (de izquierda a derecha) 
+justify-content: center ->  Centra todo de forma vertical (de arriba a abajo) 
+min-height: 100vh -> Obliga a la portada a medir el 100% del alto de la pantalla 
